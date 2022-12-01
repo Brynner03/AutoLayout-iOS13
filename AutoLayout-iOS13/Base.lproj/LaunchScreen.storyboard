@@ -29,9 +29,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="fEb-pf-Q9X" secondAttribute="bottom" id="5YK-Ki-QpQ"/>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="MBr-BT-Ju4"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailingMargin" constant="20" id="MBr-BT-Ju4"/>
                             <constraint firstItem="fEb-pf-Q9X" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="RlF-Hl-WMv"/>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="wvL-vl-bxE"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="wvL-vl-bxE"/>
                         </constraints>
                     </view>
                 </viewController>
